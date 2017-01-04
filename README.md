@@ -1,0 +1,2 @@
+# linu
+destridution
